@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fultonms/sinker/issues"
   },
-  "homepage": "https://github.com/fultonms/sinker#readme"
+  "homepage": "https://github.com/fultonms/sinker#readme",
+  "dependencies": {
+    "discord.js": "^11.0.0"
+  }
 }
